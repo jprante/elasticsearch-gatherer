@@ -55,7 +55,7 @@
     <repositories>
         <repository>
             <id>bintray-elasticsearch-plugins</id>
-            <url>http://dl.bintray.com/jprante/elasticsearch-plugins</url>
+            <url>https://dl.bintray.com/jprante/elasticsearch-plugins</url>
             <releases>
                 <enabled>true</enabled>
             </releases>
@@ -66,12 +66,12 @@
         <repository>
             <id>xbib-releases</id>
             <name>xbib Maven Repository</name>
-            <url>http://github.com/xbib/maven-repo/raw/master/releases</url>
+            <url>https://github.com/xbib/maven-repo/raw/master/releases</url>
         </repository>
         <repository>
             <id>xbib-snapshots</id>
             <name>xbib Maven Repository</name>
-            <url>http://github.com/xbib/maven-repo/raw/master/snapshots</url>
+            <url>https://github.com/xbib/maven-repo/raw/master/snapshots</url>
         </repository>
     </repositories>
 
